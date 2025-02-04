@@ -19,6 +19,7 @@ public class ChangeScene : MonoBehaviour
         
     }
     //シーンを読み込む
+    //コメントの追加
     public void Load()
     {
         SceneManager.LoadScene(sceneName);
