@@ -19,7 +19,6 @@ public class ChangeScene : MonoBehaviour
         
     }
     //シーンを読み込む
-    //プライベート後にコメント追加テスト
     public void Load()
     {
         SceneManager.LoadScene(sceneName);
