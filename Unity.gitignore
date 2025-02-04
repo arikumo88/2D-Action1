@@ -77,3 +77,11 @@ crashlytics-build.properties
 
 # VSCode 設定
 .vscode/
+
+# Unityのキャッシュファイルを除外
+Library/
+Logs/
+Temp/
+obj/
+Build/
+
